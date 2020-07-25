@@ -1,0 +1,21 @@
+
+.App {
+  text-align: center;
+  
+}
+#header{
+  font-family: 'Ranchers', cursive;
+  color: rgb(133, 177, 197);
+  letter-spacing:2px;
+  font-size: 65px;
+  margin: 20px;
+}
+
+.App input{
+  font-size: 18px;
+  margin-bottom: 35px;
+  padding: 10px 50px;
+  border-radius: 10px;
+  outline: none;
+}
+
